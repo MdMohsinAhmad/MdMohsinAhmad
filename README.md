@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD Mohsin</h1>
 <h3 align="center">A passionate MERN Full Stack developer & Mendix Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakprasad256&label=Profile%20views&color=0e75b6&style=flat" alt="ronakprasad256" /> </p>
 
-<p align="left"> <a href="#" target="blank"><img src="#" alt="ronakprasad" /></a> </p>
+
+
 
 - 🔭 I’m currently working at *MRPL*
 
