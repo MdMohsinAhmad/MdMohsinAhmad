@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakprasad256&label=Profile%20views&color=0e75b6&style=flat" alt="ronakprasad256" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ronakprasad" target="blank"><img src="https://img.shields.io/twitter/follow/ronakprasad?logo=twitter&style=for-the-badge" alt="ronakprasad" /></a> </p>
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/ronakprasad?logo=twitter&style=for-the-badge" alt="ronakprasad" /></a> </p>
 
 - 🔭 I’m currently working at *MRPL*
 
